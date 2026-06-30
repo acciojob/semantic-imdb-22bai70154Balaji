@@ -1,2 +1,51 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
 
+        header {
+            background: #222;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        nav {
+            background: #444;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        section, summary, aside, footer {
+            background: white;
+            margin-top: 20px;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        aside {
+            background: #e8f4ff;
+        }
+
+        footer {
+            background: #222;
+            color: white;
+            text-align: center;
+        }
+    </style>
 /* Your CSS Code here. */
